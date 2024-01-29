@@ -2,5 +2,9 @@
 build-by-default: true
 branches:
 - stable
-projects: []
+projects:
+  Cache:
+    path: ""
+    model: virion
+    type: library
 ...
