@@ -1,0 +1,5 @@
+name: Cache
+api: [4.0.0, 5.0.0]
+antigen: exodus\cache
+version: 1.0
+authors: [iSrDxv]
