@@ -13,6 +13,7 @@ class CacheManager
       return false;
     }
     $this->caches[$name] = new Cache($data);
+    return true;
   }
   
   public function get(string $name): ?Cache
